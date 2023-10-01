@@ -1,0 +1,244 @@
+<!-- tpl/de/cauposhop_noframes/head.tpl -->
+<html>
+<head>
+<META NAME="publisher" CONTENT="Hongkongfun ">
+<META NAME="keywords" CONTENT="Bleem, PS Hacker, Modchip, Memorycard, Joypad, Neo, Hongkong-Importe, Konsole, Konsolenzubehoer, Dreamcast,  PSX, Schummelmodul, Action Replay">
+<META NAME="description" CONTENT="Hongkongfun importiert Konsolenzubehoer - vielfach direkt aus HongKong - und ist deshalb in der Lage, Ihnen besonders guenstige Preise anbieten zu koennen. Unser Angebot wird staendig erweitert. Lassen SIe sich ueberraschen.">
+<META NAME="page-topic" CONTENT="Spiel">
+<META NAME="page-type" CONTENT="Produktinfo">
+<META NAME="robots" CONTENT="INDEX,FOLLOW">
+<meta http-equiv="Expires" content="0"></head><title>Hongkongfun - Artikel</title> 
+
+
+
+</head><link rel="stylesheet" href="tpl/de/cauposhop_noframes/caupo.css"><!-- tpl/de/cauposhop_noframes/body.tpl -->
+<body bgcolor="ffffff" text="#000000" link="#000000" alink="#ff0000" vlink="#000000">
+<table border="0" bgcolor="#000000" width="760" cellpadding="0" cellspacing="0" >
+<tr><td></td></tr>
+<tr><td> <center>
+   <table border="0" bgcolor="#000000" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD width="40"><img src="images/logo2.gif"  border="0"></TD>
+			<TD width="40" bgcolor="#2878A6"><a href="download/spanish.pdf" target = "new"><img src="download/spanish.gif"  border="0"></a></TD>
+		  <td width="680"  bgcolor="#2878A6">
+		  &nbsp;
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+<tr><td> <center>
+   <table border="0" bgcolor="#9CAFBC" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD VAlign=left>
+		  <table border="0" width="150" cellpadding=1 cellspacing=1 align="right">
+		  		 <tr>
+				 	 <td  colspan="2" width="20"  align="center"   valign="bottom"><nobr><a href="index.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Home</a><b> || </nobr><br  </td>
+					 <td  colspan="2" width="40" align="center"   valign="bottom"><nobr> <a href="myhongkongfun.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Mein Konto</a> <b>|| </nobr> <br></td>
+					 <td  colspan="2"  width="20" align="center"   valign="bottom"><nobr> <a href="shop_basket.php3?PHPSESSID=&VID="> <font face="Arial" color="#ffffff"><strong><small><nobr>Warenkorb</nobr></a></td>
+				 </tr>
+				 </table>
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+</Table>
+<!-- tpl/de/cauposhop_noframes/shop_nav.tpl -->
+
+<form action="shop_artikel.php3" method="POST" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#ffffff" align=left>
+
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#000000" >
+<tr><td></td></tr>
+<tr>
+<td colspan="3" >
+	<div align="center">
+		
+		<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#2878A6">
+		<tr><td>
+				<font color="#2878A6">--</font><font face="Arial" color="#ffffff"><strong><small>Navigation</small></strong></font></td>
+		</tr>
+		</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div align="center">
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#9CAFBC">
+<tr>
+<td>
+<br><small>
+<font face="Arial" size="2" color="#ffffff">
+Suchen:
+<input type="Text" name="svValue" value="" size="10"><br>
+<br>
+Auswahl einschränken:<br><br>
+</font>
+<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<select name="svArtikelArt"><option value="0">Alles</option>
+<OPTION VALUE="PStation">PStation</option>
+<OPTION VALUE="GC">GC</option>
+<OPTION VALUE="PStation2">PStation2</option>
+<OPTION VALUE="DC">DC</option>
+<OPTION VALUE="GBA">GBA</option>
+<OPTION VALUE="Sonstiges">Sonstiges</option>
+<OPTION VALUE="GB">GB</option>
+<OPTION VALUE="PC">PC</option>
+<OPTION VALUE="X-Box">X-Box</option>
+<OPTION VALUE="DC-Spiele">DC-Spiele</option>
+<OPTION VALUE="N64-Spiele">N64-Spiele</option>
+<OPTION VALUE="N64">N64</option>
+<OPTION VALUE=""></option>
+<OPTION VALUE="SNES">SNES</option>
+</select>
+<br>
+<br>
+<br>
+<input type="Hidden" name="VID" value="">
+<input type="submit" size="15" value="    Anzeigen    " name="btnSuche"><br><br>
+<br><b>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ allgemeines ]	<br>		 
+	<font color="#9CAFBC">----</font><a href="info.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>impressum</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	
+	
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
+	<font color="#9CAFBC">----</font><a href="download.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>download</nobr></a><br>
+	
+						<br><center>Angebot<br>DC Virtua Tennis 2<br><br><a href="http://www.hongkongfun.de/single_article.php3?nArtikel_ID=154&VID="><img src ="images/big/dcgvtennis2.jpg" border=0 height=100></a><br></center><br><br>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ news ]		<br>	 
+		   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Auch Bezahlung pe ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Smartjoy und X-Jo ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Bis zu 4 Dreamcas ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Videospiele und Z ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Einige Titel scho ..</nobr></a><br>
+	   						
+						<br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+</table>
+
+</form>
+</tr></td>
+
+
+
+</table>
+
+
+
+</tr></td>
+</table>
+
+	
+
+<!-- tpl/de/cauposhop_noframes/artikel.tpl -->
+<form action="shop_basket.php3" method="POST">
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td valign=top><table width="90" border="0" cellpadding="0" cellspacing="0"align="center">
+<tr><td></td></tr></table>
+<tr><td>
+<table width="550" border="0"  cellpadding=1 cellspacing=0 bgcolor="white" align="center">
+<tr>
+	<td colspan=1>
+	<font face="arial" color="#990000" size="4">1Mega Speicherkarte</font><font size="2" face="arial" color=black>
+	<br>
+	
+	<br><b>Lieferstatus:</b> lieferbar</b>
+	<br><b>Preis:</b> EUR    1.09</font>
+		<br><b>Fremdfabrikat</b> als Zubehör zu PStation<br><br> 
+		
+		
+<font size="2" face="arial">Einfache unkomprimierte Speicherkarte für die PStation. In Einzelverpackung !</font>
+<br><br>
+<font size="1" face="arial"><b>Menge:</b></font> <input type="Text" name="nArtikel_Menge" value="1" size="3" maxlength="3"></td>
+
+
+	
+	<td><img src="images/big/1meg.jpg"  alt="44" border="0"><br><center><font size="0" face="arial"><b>Abbildung kann vom Artikel abweichen.</b></font></center></td>
+
+	
+</tr>
+<tr>
+	<td colspan = 2><br><input type="Submit" name="Add2Basket" value="In Warenkorb"><input type="hidden" name="nPreis" value="   1.09">
+	<input type="Hidden" name="nArtikel_ID" value="44">
+	<input type="Hidden" name="VID" value="">
+	</form>
+	</td>
+	
+	
+
+</tr>
+<tr><td Colspan=2>
+
+
+<table border=0>
+
+<tr><td Colspan =2> <font size="2" face="arial"><br> </td></tr></TABLE>
+
+
+
+<br>
+<Table border = 0>
+<tr><td Colspan =3> </td></tr></table>
+
+<br>
+<Table border = 0>
+</table>
+
+<br>
+<table border=0>
+
+
+	 <tr><td colspan=3><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+	 <tr><td> 
+	 <br><font face="arial" color="#990000" size="3">Andere Kunden haben zu diesem Artikel folgende Artikel gekauft: <br><br><font face="arial" size="2"><a href ="single_article.php3?nArtikel_ID=7&VID=">RGB-Kabel Audio</a> <br><font face="arial" size="2"><a href ="single_article.php3?nArtikel_ID=26&VID=">Smartjoy USB</a> <br><font face="arial" size="2"><a href ="single_article.php3?nArtikel_ID=56&VID=">4M trans. Memory Card</a> <br></td></tr>
+
+
+
+
+</TABLE>
+
+
+<br><br><br><br>
+</TD></TR>
+</table>
+
+<tr><td height="1" BGCOLOR="#000000" ></td></tr>
+<tr><td ><font face="arial" color="#000000" size="1"><center>
+ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
+
+
+</td></TR></table>
+
+
+</body>
+</html>

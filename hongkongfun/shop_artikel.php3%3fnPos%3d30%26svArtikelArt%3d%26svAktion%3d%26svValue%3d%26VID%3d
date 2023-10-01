@@ -1,0 +1,505 @@
+<!-- tpl/de/cauposhop_noframes/head.tpl -->
+<html>
+<head>
+<META NAME="publisher" CONTENT="Hongkongfun ">
+<META NAME="keywords" CONTENT="Bleem, PS Hacker, Modchip, Memorycard, Joypad, Neo, Hongkong-Importe, Konsole, Konsolenzubehoer, Dreamcast,  PSX, Schummelmodul, Action Replay">
+<META NAME="description" CONTENT="Hongkongfun importiert Konsolenzubehoer - vielfach direkt aus HongKong - und ist deshalb in der Lage, Ihnen besonders guenstige Preise anbieten zu koennen. Unser Angebot wird staendig erweitert. Lassen SIe sich ueberraschen.">
+<META NAME="page-topic" CONTENT="Spiel">
+<META NAME="page-type" CONTENT="Produktinfo">
+<META NAME="robots" CONTENT="INDEX,FOLLOW">
+<meta http-equiv="Expires" content="0"></head><title>Hongkongfun - Artikel</title> 
+
+
+
+</head><link rel="stylesheet" href="tpl/de/cauposhop_noframes/caupo.css"><!-- tpl/de/cauposhop_noframes/body.tpl -->
+<body bgcolor="ffffff" text="#000000" link="#000000" alink="#ff0000" vlink="#000000">
+<table border="0" bgcolor="#000000" width="760" cellpadding="0" cellspacing="0" >
+<tr><td></td></tr>
+<tr><td> <center>
+   <table border="0" bgcolor="#000000" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD width="40"><img src="images/logo2.gif"  border="0"></TD>
+			<TD width="40" bgcolor="#2878A6"><a href="download/spanish.pdf" target = "new"><img src="download/spanish.gif"  border="0"></a></TD>
+		  <td width="680"  bgcolor="#2878A6">
+		  &nbsp;
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+<tr><td> <center>
+   <table border="0" bgcolor="#9CAFBC" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD VAlign=left>
+		  <table border="0" width="150" cellpadding=1 cellspacing=1 align="right">
+		  		 <tr>
+				 	 <td  colspan="2" width="20"  align="center"   valign="bottom"><nobr><a href="index.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Home</a><b> || </nobr><br  </td>
+					 <td  colspan="2" width="40" align="center"   valign="bottom"><nobr> <a href="myhongkongfun.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Mein Konto</a> <b>|| </nobr> <br></td>
+					 <td  colspan="2"  width="20" align="center"   valign="bottom"><nobr> <a href="shop_basket.php3?PHPSESSID=&VID="> <font face="Arial" color="#ffffff"><strong><small><nobr>Warenkorb</nobr></a></td>
+				 </tr>
+				 </table>
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+</Table>
+<!-- tpl/de/cauposhop_noframes/shop_nav.tpl -->
+
+<form action="shop_artikel.php3" method="POST" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#ffffff" align=left>
+
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#000000" >
+<tr><td></td></tr>
+<tr>
+<td colspan="3" >
+	<div align="center">
+		
+		<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#2878A6">
+		<tr><td>
+				<font color="#2878A6">--</font><font face="Arial" color="#ffffff"><strong><small>Navigation</small></strong></font></td>
+		</tr>
+		</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div align="center">
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#9CAFBC">
+<tr>
+<td>
+<br><small>
+<font face="Arial" size="2" color="#ffffff">
+Suchen:
+<input type="Text" name="svValue" value="" size="10"><br>
+<br>
+Auswahl einschränken:<br><br>
+</font>
+<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<select name="svArtikelArt"><option value="0">Alles</option>
+<OPTION VALUE="PStation">PStation</option>
+<OPTION VALUE="GC">GC</option>
+<OPTION VALUE="PStation2">PStation2</option>
+<OPTION VALUE="DC">DC</option>
+<OPTION VALUE="GBA">GBA</option>
+<OPTION VALUE="Sonstiges">Sonstiges</option>
+<OPTION VALUE="GB">GB</option>
+<OPTION VALUE="PC">PC</option>
+<OPTION VALUE="X-Box">X-Box</option>
+<OPTION VALUE="DC-Spiele">DC-Spiele</option>
+<OPTION VALUE="N64-Spiele">N64-Spiele</option>
+<OPTION VALUE="N64">N64</option>
+<OPTION VALUE=""></option>
+<OPTION VALUE="SNES">SNES</option>
+</select>
+<br>
+<br>
+<br>
+<input type="Hidden" name="VID" value="">
+<input type="submit" size="15" value="    Anzeigen    " name="btnSuche"><br><br>
+<br><b>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ allgemeines ]	<br>		 
+	<font color="#9CAFBC">----</font><a href="info.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>impressum</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	
+	
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
+	<font color="#9CAFBC">----</font><a href="download.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>download</nobr></a><br>
+	
+						<br><center>Angebot<br>DC Virtua Tennis 2<br><br><a href="http://www.hongkongfun.de/single_article.php3?nArtikel_ID=154&VID="><img src ="images/big/dcgvtennis2.jpg" border=0 height=100></a><br></center><br><br>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ news ]		<br>	 
+		   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Auch Bezahlung pe ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Smartjoy und X-Jo ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Bis zu 4 Dreamcas ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Videospiele und Z ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Einige Titel scho ..</nobr></a><br>
+	   						
+						<br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+</table>
+
+</form>
+</tr></td>
+
+
+
+</table>
+
+
+
+</tr></td>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td valign=top><table width="90" border="0" cellpadding="0" cellspacing="0"align="center">
+<tr><td></td></tr></table>
+<tr><td>
+	
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_head.tpl -->
+<table border="0" width="550" cellpadding=2 cellspacing=2 align="center">
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="287">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=287&VID="><img src="images/dcgf1worldgrandprix.jpg" width="80" height="80" alt="287" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original F1 World Grand Prix</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Möchten Sie mal so richtig Gummi geben und dabei den Rausch puren Adrenalins verspüren ? Forumla One World Grand Prix für Dreamcast gibt Ihnen hierzu mächtig Gelegenheit. Auf 16 Original F1 Rennstrecken und in 22 Wagen liefern Sie sich spannende Kopf-an-Kopf Rennen.<br />
+</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="286">
+<input type="hidden" name="nPreis" value="   5.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=286&VID="><img src="images/dcgtokyohighway1.jpg" width="77" height="80" alt="286" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Tokyo Highway Ch.</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Rechtzeitig zum Launch der Hardware kommt eines der beeindruckendsten Street-Racing-Games für Segas Dreamcast auf den Markt. Auf dem original Tokyo Highway fahren Sie nachts illegale, halsbrecherische Rennen um Geld und Ehre. Tokyo Highway Challenge bietet phantastische Grafik und hervorragende Langzeitmotivation im Simulationsmodus. - wählen Sie Ihren Liebling aus 25 Autos, die Sie mit umfangreichen Tuning-Optionen zur absoluten Rennmaschine aufrüsten können - fahren Sie gegen 200 individuelle Konkurrenten auf dem Highway von Tokyo - das neuartige Challenge-Bar-System gibt dem Rennen eine neue Dimension - zahlreiche verschiedene Spielmodi: u.a. Practice, Quick Race, Simulation und Zweispieler-Modus</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    5.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="296">
+<input type="hidden" name="nPreis" value="   8.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=296&VID="><img src="images/dcreddog.jpg" width="80" height="70" alt="296" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Red Dog</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Sieben kurze Jahre haben die Menschen und die außerirdischen Haak in Frieden auf der Erde gelebt. Doch nun ist der Frieden zerstört und eine Invasion der Haak bedroht die gesamte Menschheit. Als Kommandant des Überpanzers Red Dog müssen sie die Kontinente der Erde von den Streitmächten der Haak befreien. Auf jedem Kontinent erwartet sie eine neue Mission, aber fühlen sie sich niemals zu sicher - die Haak lauern hinter jeder Ecke mit neuen Überraschungen. Testen sie ihre Fähigkeiten gegen andere Spieler - bis zu vier Spieler können in den groß angelegten Multiplayer-Leveln mit über 15 Umgebungen und Angriffszielen gegeneinander antreten. Es wird sicher ein wenig hektisch da draußen, aber fahren sie keine Beulen in ihren Panzer. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    8.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="299">
+<input type="hidden" name="nPreis" value="   7.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=299&VID="><img src="images/dcbuggyheat.jpg" width="80" height="80" alt="299" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Buggy Heat</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Ladies und Gentleman, machen Sie sich bereit für das grösste und spannendste Rennen Ihres Lebens. Hinter dem Steuer Ihres 4x4 Off Road Vehikels fahren Sie auf unterschiedlichsten Rennstrecken gegen ihre harte Konkurrenz. Speichern und verbessern Sie ihre Leistungen, fahren Sie schneller als die Anderen, oder werden Sie die Nr. 1 im härtesten und verrücktesten Off Road Rennspiel aller Zeiten für die Konsole. <br />
+<br />
+</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    7.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="294">
+<input type="hidden" name="nPreis" value="   3.99">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=294&VID="><img src="images/dcgnba.jpg" width="80" height="77" alt="294" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original NBA 2k</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Mach dich bereit für die Hardcore-Action, die Sega mit NBA 2K für Dreamcast bringt. Jeder Spieler wurde mit über 1600 Motion Capture Bewegungen animiert und 26 NBA Teams spielen wie im echten Leben. Die Spieler reagieren auf deine Analogsteuerung mit einer Präzision, wie es noch nie in einem Sportspiel zu sehen war.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    3.99</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="343">
+<input type="hidden" name="nPreis" value="   8.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=343&VID="><img src="images/dcgready2rumble2.jpg" width="80" height="68" alt="343" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Ready 2 Rumble Round 2</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>"Ready 2 Rumble" ein knallharter Karneval des Boxens. Das Hauptgewicht liegt auf taktisch platzierten Schlägen, aber die Steuerung erlaubt auch Tänzeln, Ausweichen und Schwingen. Und Abfolge verschiedener Schläge versetzt den Spieler in den "Rumble-Modus", in dem er so gut wie unbesiegbar ist. Nun ist der Nachfolger da: "Ready 2 Rumble 2" bietet noch mehr Kämpfer (19 an der Zahl), angefangen beim funky Afro Thunder bis zu Boris Knockimov mit dem treffenden Namen. Diesmal ist sogar Afro Thunders Bruder JC Thunder mit von der Partie ganz zu schweigen von Michael Jackson unter den versteckten Figuren... Dank verbesserter Grafik und Animation wirken Figuren und Hintergründe lebensecht und ihre Moves noch realistischer. Im Meisterschafts-Modus trainiert der Boxer in der Halle, ehe er gegen bares Geld bei Preiskämpfen antritt. Ein Kampf-Kalender macht es möglich, das Training genau auf den nächsten Kampf abzustimmen. Im Zwei-Spieler-Modus macht "Ready 2 Rumble2" süchtig auf einen Schlag. Das ist Boxen mit dem gewissen Etwas! FEATURES: - 24 Kämpfer + versteckte Charaktere - detaillierte Grafik und Animation - ausgearbeitete Trainingsoption - erweiterter "Rumble"-Modus </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    8.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="346">
+<input type="hidden" name="nPreis" value="   9.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=346&VID="><img src="images/dcgnightmare2.jpg" width="80" height="80" alt="346" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Nightmare Creatures 2</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Nach der Jagd auf Adam Crowley durch das düstere London des Jahres 1834 schickt Dich dieses Spiel ein Jahrhundert später erneut auf die Spur des dämonischen Wissenschaftlers. Du schlüpfst in die Rolle von Wallace, misshandeltes Testsubjekt des grausamen Crowley. Nach Monaten der Folter und Qualen macht sich Wallace auf, um an seinen Peinigern furchtbare Rache zu nehmen. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    9.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="317">
+<input type="hidden" name="nPreis" value="  20.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=317&VID="><img src="images/no.jpg" width="75" height="60" alt="317" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Fussball Spiele Pack</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Sparen Sie über 33 % zu unseren sowieso günstigen Preisen mit diesem Pack, er enthält folgende Spiele :<br />
+<br />
+Uefa Dreamsoccer, Uefa Striker, Virtua Striker 2 und 90 Minutes Sega Championship Football</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   20.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="316">
+<input type="hidden" name="nPreis" value="  29.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=316&VID="><img src="images/no.jpg" width="75" height="60" alt="316" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Racing Spiele Pack</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Sparen Sie über 43 % zu unseren sowieso günstigen Preisen mit diesem Pack, er enthält folgende Spiele :<br />
+Tokyo Highway Challenge, Sega GT, POD, Sega Rally und Exhibition of Speed. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   29.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="319">
+<input type="hidden" name="nPreis" value="  29.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=319&VID="><img src="images/no.jpg" width="75" height="60" alt="319" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Sport Spiele Pack</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Sparen Sie über 33 % zu unseren sowieso günstigen Preisen mit diesem Pack, er enthält folgende Spiele :<br />
+Nba 2k, Virtua Tennis, Virtua Athlete, Sega Extreme Sports und 90 Minutes Sega Championship Football</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   29.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_end.tpl -->
+<tr><td colspan=6><font face="arial" color="#000000" size="1"><center>
+ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
+</table><!-- tpl/de/cauposhop_noframes/navigation.tpl -->
+<table width="550" border="0" cellpadding=0 cellspacing=0 align="center">
+ <tr>
+  <td class=fliesstext10pt align=center>
+   Artikel 31-40 von insgesamt 57  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=0&svArtikelArt=&svAktion=&svValue=&VID=">Anfang der Artikel-Liste</a> - 
+   <a href="shop_artikel.php3?nPos=20&svArtikelArt=&svAktion=&svValue=&VID=">Vorherige Seite</a>
+  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=40&svArtikelArt=&svAktion=&svValue=&VID=">Nächste Seite</a> - 
+   <a href="shop_artikel.php3?nPos=48&svArtikelArt=&svAktion=&svValue=&VID=">Ende der Artikel-Liste</a>
+  </td>
+ </tr>
+ </table></td></tr></table>
+
+</body>
+</html>

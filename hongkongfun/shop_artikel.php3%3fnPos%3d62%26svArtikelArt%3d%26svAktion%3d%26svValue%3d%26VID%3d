@@ -1,0 +1,476 @@
+<!-- tpl/de/cauposhop_noframes/head.tpl -->
+<html>
+<head>
+<META NAME="publisher" CONTENT="Hongkongfun ">
+<META NAME="keywords" CONTENT="Bleem, PS Hacker, Modchip, Memorycard, Joypad, Neo, Hongkong-Importe, Konsole, Konsolenzubehoer, Dreamcast,  PSX, Schummelmodul, Action Replay">
+<META NAME="description" CONTENT="Hongkongfun importiert Konsolenzubehoer - vielfach direkt aus HongKong - und ist deshalb in der Lage, Ihnen besonders guenstige Preise anbieten zu koennen. Unser Angebot wird staendig erweitert. Lassen SIe sich ueberraschen.">
+<META NAME="page-topic" CONTENT="Spiel">
+<META NAME="page-type" CONTENT="Produktinfo">
+<META NAME="robots" CONTENT="INDEX,FOLLOW">
+<meta http-equiv="Expires" content="0"></head><title>Hongkongfun - Artikel</title> 
+
+
+
+</head><link rel="stylesheet" href="tpl/de/cauposhop_noframes/caupo.css"><!-- tpl/de/cauposhop_noframes/body.tpl -->
+<body bgcolor="ffffff" text="#000000" link="#000000" alink="#ff0000" vlink="#000000">
+<table border="0" bgcolor="#000000" width="760" cellpadding="0" cellspacing="0" >
+<tr><td></td></tr>
+<tr><td> <center>
+   <table border="0" bgcolor="#000000" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD width="40"><img src="images/logo2.gif"  border="0"></TD>
+			<TD width="40" bgcolor="#2878A6"><a href="download/spanish.pdf" target = "new"><img src="download/spanish.gif"  border="0"></a></TD>
+		  <td width="680"  bgcolor="#2878A6">
+		  &nbsp;
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+<tr><td> <center>
+   <table border="0" bgcolor="#9CAFBC" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD VAlign=left>
+		  <table border="0" width="150" cellpadding=1 cellspacing=1 align="right">
+		  		 <tr>
+				 	 <td  colspan="2" width="20"  align="center"   valign="bottom"><nobr><a href="index.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Home</a><b> || </nobr><br  </td>
+					 <td  colspan="2" width="40" align="center"   valign="bottom"><nobr> <a href="myhongkongfun.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Mein Konto</a> <b>|| </nobr> <br></td>
+					 <td  colspan="2"  width="20" align="center"   valign="bottom"><nobr> <a href="shop_basket.php3?PHPSESSID=&VID="> <font face="Arial" color="#ffffff"><strong><small><nobr>Warenkorb</nobr></a></td>
+				 </tr>
+				 </table>
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+</Table>
+<!-- tpl/de/cauposhop_noframes/shop_nav.tpl -->
+
+<form action="shop_artikel.php3" method="POST" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#ffffff" align=left>
+
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#000000" >
+<tr><td></td></tr>
+<tr>
+<td colspan="3" >
+	<div align="center">
+		
+		<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#2878A6">
+		<tr><td>
+				<font color="#2878A6">--</font><font face="Arial" color="#ffffff"><strong><small>Navigation</small></strong></font></td>
+		</tr>
+		</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div align="center">
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#9CAFBC">
+<tr>
+<td>
+<br><small>
+<font face="Arial" size="2" color="#ffffff">
+Suchen:
+<input type="Text" name="svValue" value="" size="10"><br>
+<br>
+Auswahl einschränken:<br><br>
+</font>
+<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<select name="svArtikelArt"><option value="0">Alles</option>
+<OPTION VALUE="PStation">PStation</option>
+<OPTION VALUE="GC">GC</option>
+<OPTION VALUE="PStation2">PStation2</option>
+<OPTION VALUE="DC">DC</option>
+<OPTION VALUE="GBA">GBA</option>
+<OPTION VALUE="Sonstiges">Sonstiges</option>
+<OPTION VALUE="GB">GB</option>
+<OPTION VALUE="PC">PC</option>
+<OPTION VALUE="X-Box">X-Box</option>
+<OPTION VALUE="DC-Spiele">DC-Spiele</option>
+<OPTION VALUE="N64-Spiele">N64-Spiele</option>
+<OPTION VALUE="N64">N64</option>
+<OPTION VALUE=""></option>
+<OPTION VALUE="SNES">SNES</option>
+</select>
+<br>
+<br>
+<br>
+<input type="Hidden" name="VID" value="">
+<input type="submit" size="15" value="    Anzeigen    " name="btnSuche"><br><br>
+<br><b>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ allgemeines ]	<br>		 
+	<font color="#9CAFBC">----</font><a href="info.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>impressum</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	
+	
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
+	<font color="#9CAFBC">----</font><a href="download.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>download</nobr></a><br>
+	
+						<br><center>Angebot<br>DC Headhunter<br><br><a href="http://www.hongkongfun.de/single_article.php3?nArtikel_ID=146&VID="><img src ="images/big/dcgheadhunter" border=0 height=100></a><br></center><br><br>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ news ]		<br>	 
+		   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Bis zu 4 Dreamcas ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Videospiele und Z ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Einige Titel scho ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Original Lenkrad  ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Neue DC Spiele ..</nobr></a><br>
+	   						
+						<br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+</table>
+
+</form>
+</tr></td>
+
+
+
+</table>
+
+
+
+</tr></td>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td valign=top><table width="90" border="0" cellpadding="0" cellspacing="0"align="center">
+<tr><td></td></tr></table>
+<tr><td>
+	
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_head.tpl -->
+<table border="0" width="550" cellpadding=2 cellspacing=2 align="center">
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="47">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=47&VID="><img src="images/stand.jpg" width="71" height="80" alt="47" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Aufsteller (Stand)</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation2 </div>
+<br><div class=fliesstext10pt>Aufsteller für die PStation2, damit das teure Stück nicht umfällt. Mit Memory Card Slots.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="328">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=328&VID="><img src="images/snespad.jpg" width="80" height="42" alt="328" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Gamepad</div>
+<div class=fliesstext>Dieser Artikel ist passend für SNES </div>
+<br><div class=fliesstext10pt>Super Pad für das SNES, kein Originalprodukt aber sehr gute Qualität im super Look. Pads für das SNES sind sehr zu bekommen über die Qualtität zu günstigem Preis überzeugt bei diesem Produkt.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="292">
+<input type="hidden" name="nPreis" value="  14.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=292&VID="><img src="images/xboxmultirf.jpg" width="44" height="80" alt="292" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>RF-Unit 7-in-1</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-Box </div>
+<br><div class=fliesstext10pt>Mit der RF-Unit von Bigben Interactive können Sie Ihre PlayStation2™, die Xbox™ oder den GameCube® etc. über den Antenneneingang des TV anschließen. Dies ist die einzige Anschlußmöglichkeit für alte TVs, die nicht über einen Scart oder S-Video Eingang verfügen. Das Antennensignal wird übrigens durchgeschliffen, somit ist kein Umstecken am TV notwendig, um das normale Programm zu schauen.<br />
+</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   14.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="335">
+<input type="hidden" name="nPreis" value="  69.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=335&VID="><img src="images/no.jpg" width="75" height="60" alt="335" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Spezial Spar Bundle</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-Box </div>
+<br><div class=fliesstext10pt>Sie haben sich gerade eine X-Box zugelegt und brauchen noch das uebliche Zubehoer? <br />
+Geben sie nicht unnoetig Geld aus, hier ist alles was sie brauchen in einem super spar Packet:<br />
+1x Audio RGB Kabel fuer optimale Bildschirmdarstellung<br />
+1x Joyconverter um auch noch Ihre PStation oder PStation2 Pads an der Xbox benutzen zu koennen<br />
+1x VGA Box damit Sie Ihre X-Box an Ihren schoenen PC-Monitor anschliessen koennen.<br />
+<br />
+Sparen Sie ueber 27%</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   69.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="149">
+<input type="hidden" name="nPreis" value="   4.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=149&VID="><img src="images/xboxsvhs.jpg" width="75" height="80" alt="149" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>SVHS Kabel</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-BOX </div>
+<br><div class=fliesstext10pt>Dieses Kabel ist absolut essentiell für den wahren Zocker. Endlich können Sie das volle SVHS Signal für eine optimale Darstellung am TV übertragen.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    4.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="313">
+<input type="hidden" name="nPreis" value="  18.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=313&VID="><img src="images/xboxusbadapter.jpg" width="60" height="80" alt="313" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>USB Adapter</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-Box </div>
+<br><div class=fliesstext10pt>Schliessen Sie USB Zubehör an Ihre X-Box an. Es werden von kompatiblen Spielen wie zum Beispiel bei Phantasy Star Online, Tastaturen unterstützt. Bei umgebauten Konsolen (z.B. Linux) können durch Treiberinstallation sehr viele USB Geräte installiert werden.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   18.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="148">
+<input type="hidden" name="nPreis" value="  70.00">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=148&VID="><img src="images/xboxvga.jpg" width="80" height="29" alt="148" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>VGA Box</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-Box </div>
+<br><div class=fliesstext10pt>Benutzen sie Ihre XBox am VGA Monitor, dabei kann bequem zwischen PC und Xbox umgeschaltet werden ohne lästiges Umstecken. Diese VGA Box kann ohne zusätzliche Stromversorgung benutzt werden. <br />
+Funktioniert aber leider nicht bei TFT Monitoren !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   70.00</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="197">
+<input type="hidden" name="nPreis" value="  11.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=197&VID="><img src="images/xboxjoypadconverter.jpg" width="55" height="80" alt="197" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Joypadconverter</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-Box </div>
+<br><div class=fliesstext10pt>Ist Ihnen das X-Box Pad lästig, liegt es einfach nicht so toll in der Hand ! Wir haben die Lösung. Benutzen Sie Ihr PStation/PStation2 Pad an Ihrer Xbox mit Rumbleunterstützung. Sparen Sie bares Geld, dieser Adapter ist wirklich jeden Cent wert.<br />
+<br />
+Wir koennen nicht garantieren dass das angeschlossene Pad an dem Adapter mit jedem Spiel 100% funktioniert.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   11.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="257">
+<input type="hidden" name="nPreis" value="  14.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=257&VID="><img src="images/xboxfifajoypad.jpg" width="80" height="71" alt="257" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Fifa Joypad</div>
+<div class=fliesstext>Dieser Artikel ist passend für X-BOX </div>
+<br><div class=fliesstext10pt>Günstiges Joypad von Thrustmaster passend für die Xbox. Original Fifa lizensiert. In guter Qualität, einfach günstig Geld sparen</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   14.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_end.tpl -->
+<tr><td colspan=6><font face="arial" color="#000000" size="1"><center>
+ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
+</table><!-- tpl/de/cauposhop_noframes/navigation.tpl -->
+<table width="550" border="0" cellpadding=0 cellspacing=0 align="center">
+ <tr>
+  <td class=fliesstext10pt align=center>
+   Artikel 63-71 von insgesamt 71  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=0&svArtikelArt=&svAktion=&svValue=&VID=">Anfang der Artikel-Liste</a> - 
+   <a href="shop_artikel.php3?nPos=52&svArtikelArt=&svAktion=&svValue=&VID=">Vorherige Seite</a>
+  </td>
+ </tr>
+ </table></td></tr></table>
+
+</body>
+</html>

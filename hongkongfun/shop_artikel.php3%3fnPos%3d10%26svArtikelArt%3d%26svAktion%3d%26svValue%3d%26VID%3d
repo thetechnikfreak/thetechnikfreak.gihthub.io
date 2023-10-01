@@ -1,0 +1,532 @@
+<!-- tpl/de/cauposhop_noframes/head.tpl -->
+<html>
+<head>
+<META NAME="publisher" CONTENT="Hongkongfun ">
+<META NAME="keywords" CONTENT="Bleem, PS Hacker, Modchip, Memorycard, Joypad, Neo, Hongkong-Importe, Konsole, Konsolenzubehoer, Dreamcast,  PSX, Schummelmodul, Action Replay">
+<META NAME="description" CONTENT="Hongkongfun importiert Konsolenzubehoer - vielfach direkt aus HongKong - und ist deshalb in der Lage, Ihnen besonders guenstige Preise anbieten zu koennen. Unser Angebot wird staendig erweitert. Lassen SIe sich ueberraschen.">
+<META NAME="page-topic" CONTENT="Spiel">
+<META NAME="page-type" CONTENT="Produktinfo">
+<META NAME="robots" CONTENT="INDEX,FOLLOW">
+<meta http-equiv="Expires" content="0"></head><title>Hongkongfun - Artikel</title> 
+
+
+
+</head><link rel="stylesheet" href="tpl/de/cauposhop_noframes/caupo.css"><!-- tpl/de/cauposhop_noframes/body.tpl -->
+<body bgcolor="ffffff" text="#000000" link="#000000" alink="#ff0000" vlink="#000000">
+<table border="0" bgcolor="#000000" width="760" cellpadding="0" cellspacing="0" >
+<tr><td></td></tr>
+<tr><td> <center>
+   <table border="0" bgcolor="#000000" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD width="40"><img src="images/logo2.gif"  border="0"></TD>
+			<TD width="40" bgcolor="#2878A6"><a href="download/spanish.pdf" target = "new"><img src="download/spanish.gif"  border="0"></a></TD>
+		  <td width="680"  bgcolor="#2878A6">
+		  &nbsp;
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+<tr><td> <center>
+   <table border="0" bgcolor="#9CAFBC" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD VAlign=left>
+		  <table border="0" width="150" cellpadding=1 cellspacing=1 align="right">
+		  		 <tr>
+				 	 <td  colspan="2" width="20"  align="center"   valign="bottom"><nobr><a href="index.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Home</a><b> || </nobr><br  </td>
+					 <td  colspan="2" width="40" align="center"   valign="bottom"><nobr> <a href="myhongkongfun.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Mein Konto</a> <b>|| </nobr> <br></td>
+					 <td  colspan="2"  width="20" align="center"   valign="bottom"><nobr> <a href="shop_basket.php3?PHPSESSID=&VID="> <font face="Arial" color="#ffffff"><strong><small><nobr>Warenkorb</nobr></a></td>
+				 </tr>
+				 </table>
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+</Table>
+<!-- tpl/de/cauposhop_noframes/shop_nav.tpl -->
+
+<form action="shop_artikel.php3" method="POST" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#ffffff" align=left>
+
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#000000" >
+<tr><td></td></tr>
+<tr>
+<td colspan="3" >
+	<div align="center">
+		
+		<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#2878A6">
+		<tr><td>
+				<font color="#2878A6">--</font><font face="Arial" color="#ffffff"><strong><small>Navigation</small></strong></font></td>
+		</tr>
+		</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div align="center">
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#9CAFBC">
+<tr>
+<td>
+<br><small>
+<font face="Arial" size="2" color="#ffffff">
+Suchen:
+<input type="Text" name="svValue" value="" size="10"><br>
+<br>
+Auswahl einschränken:<br><br>
+</font>
+<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<select name="svArtikelArt"><option value="0">Alles</option>
+<OPTION VALUE="PStation">PStation</option>
+<OPTION VALUE="GC">GC</option>
+<OPTION VALUE="PStation2">PStation2</option>
+<OPTION VALUE="DC">DC</option>
+<OPTION VALUE="GBA">GBA</option>
+<OPTION VALUE="Sonstiges">Sonstiges</option>
+<OPTION VALUE="GB">GB</option>
+<OPTION VALUE="PC">PC</option>
+<OPTION VALUE="X-Box">X-Box</option>
+<OPTION VALUE="DC-Spiele">DC-Spiele</option>
+<OPTION VALUE="N64-Spiele">N64-Spiele</option>
+<OPTION VALUE="N64">N64</option>
+<OPTION VALUE=""></option>
+<OPTION VALUE="SNES">SNES</option>
+</select>
+<br>
+<br>
+<br>
+<input type="Hidden" name="VID" value="">
+<input type="submit" size="15" value="    Anzeigen    " name="btnSuche"><br><br>
+<br><b>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ allgemeines ]	<br>		 
+	<font color="#9CAFBC">----</font><a href="info.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>impressum</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	
+	
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
+	<font color="#9CAFBC">----</font><a href="download.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>download</nobr></a><br>
+	
+						<br><center>Angebot<br>DC Headhunter<br><br><a href="http://www.hongkongfun.de/single_article.php3?nArtikel_ID=146&VID="><img src ="images/big/dcgheadhunter" border=0 height=100></a><br></center><br><br>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ news ]		<br>	 
+		   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Bis zu 4 Dreamcas ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Videospiele und Z ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Einige Titel scho ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Original Lenkrad  ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Neue DC Spiele ..</nobr></a><br>
+	   						
+						<br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+</table>
+
+</form>
+</tr></td>
+
+
+
+</table>
+
+
+
+</tr></td>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td valign=top><table width="90" border="0" cellpadding="0" cellspacing="0"align="center">
+<tr><td></td></tr></table>
+<tr><td>
+	
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_head.tpl -->
+<table border="0" width="550" cellpadding=2 cellspacing=2 align="center">
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="81">
+<input type="hidden" name="nPreis" value="   2.00">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=81&VID="><img src="images/dcdreamkey.jpg" width="80" height="79" alt="81" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Dreamkey 3.0</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC </div>
+<br><div class=fliesstext10pt>Endlich ist die Weiterentwicklung des Dreamkey auch für uns dt. Benutzer lieferbar. Der Dreamkey 3.0 hat erweiterte Funktionen (Mausunterstützung) .<br />
+Für alle die noch keinen Dreamkey mit freier Providerwahl haben !!</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    2.00</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="171">
+<input type="hidden" name="nPreis" value="   7.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=171&VID="><img src="images/dcgnfl.jpg" width="80" height="70" alt="171" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original NFL Blitz 2000</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>NFL Blitz 2000 ist zusätzlich für 4 Spieler, mit echtem Wetter, neuen Feldern und neuen Stadions. Erstelle Deine Spielzüge mit dem Spieldesigner. Blitzpass - passiere den Football mit einem Knopfdurck. Offensiv- und defensiveaudibles ändern das Spiel an der Scrimmagelinie. NFL Blitz 2000! Keine Schiedrischter. KeineRegeln. Keine Gnade.<br />
+<br />
+Was für Basketball NBA Jam ist, ist NFL Blitz für Football. Einfaches, unkompliztes und vorallem mit enormem Spielspass ausgestattetes Sportgame ! </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    7.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="127">
+<input type="hidden" name="nPreis" value="   3.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=127&VID="><img src="images/dcg90m.jpg" width="80" height="70" alt="127" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original 90 Minutes Sega Cham.</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Fußballvergnügen mit 32 internationalen Ligavereinen und Nationalmannschaften. Der Spieler kann sie bei Freundschaftsspielen, Landesmeisterschaften oder internationalen Turnieren gegeneinander antreten lassen, sie aber auch im Trainingsmodus hart an die Kandare nehmen. Der erweiterte Team-Edit-Modus eröffnet ihm eine Vielzahl von Einstellungsmöglichkeiten. So kann er die Trikots auswählen, Teamnamen, Mannschaftsaufstellung und Spieltaktik bestimmen, und auch Wetterbedingungen, Austragungsort und sogar Publikumssound liegen in seinen Händen. <br />
+<br><br />
+- Achtung <b>VGA</b>-Kompatibel  <br />
+- 1-4 Spieler</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    3.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="113">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=113&VID="><img src="images/dcguefadream.jpg" width="80" height="70" alt="113" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Uefa Dream Soccer</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Sega Sports und Infogrames bringen Uefa Dreamsoccer auf die Dreamcast. Dieses Absolut innovative Produkt wurde von Silicon Dreams entwickelt und hat dem Spieler erheblich mehr zu bieten als ein herkömliches Fussballspiel. <br />
+<br />
+Features:<br />
+<br />
+- fotorealistische Männliche und Weibliche Spieler <br />
+- Gesichtsausdrücke und Annimation hauchen den Spielern leben ein.<br />
+- Lebensechte Stadien mit vielen Details<br />
+- Internetverbindung zur Sega Dreamarena <br />
+- Kommentar von Marcel Reif und Christian Rudolf <br />
+- Einzigartige Arcadespielmodi für anspruchsvolles Gameplay<br />
+- über 200.000 neue,ultrahochauflösende Motion-Capuring Frames.<br />
+<br />
+Uefa Dreamsoccer lässt Ihre Dreamcast Fussballträume endlich wahr werden !<br />
+<br><br />
+- Achtung <b>VGA</b>-Kompatibel <br />
+- Arcade Stick <br />
+- 1-4 Spieler</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="188">
+<input type="hidden" name="nPreis" value="   5.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=188&VID="><img src="images/dcgvathlete.jpg" width="80" height="80" alt="188" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Virtua Athlete 2k</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Ein Athlet der Meisterkallse zu werden, erfordert Zielstrebigkeit, Opferbereitschaft und Konzentration. Haben Sie das Zeug zum Champion? Viruta Athlete 2K bietet den ganzen Realismus und die Spannung der Olympischen Spiele, aber eserspart Ihnen Schmerz und Schweiß. Fordern Sie Ihre Mitkämpfer im Quick-Turnier, Im Exhibition-Turnier und im Training heraus. Einige Features:<br />
+- Netzwerk-Rangliste<br />
+- 4 Spieler Modus<br />
+- gestalten Eigener Figuren <br />
+<br />
+Alle die Summergames oder Declathon vom C64 mochten werden hier einen würdigen Nachfolger finden !<br />
+<br />
+<b> Arcade Stick </b> unbedingt mitbestellen !!</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    5.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="121">
+<input type="hidden" name="nPreis" value="   7.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=121&VID="><img src="images/dcgroadsters.jpg" width="80" height="80" alt="121" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Roadsters Pal</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Rasen Sie mit 30 verschiedenen Roadsters über weltweite Pisten und Fernstraßen. Schwierigste Wetterbedingungen machen die Strecken zur Hölle: Lawinen, Tornados, Gewitter und sogar Lavaströme sind verblüffend echt umgesetzt. Wetten Sie auf Ihren Sieg! Mit dem Preisgeld rüsten Sie Ihren Wagen auf. Oder Sie kaufen sich ein neues Modell, um in die nächste Klasse aufzusteigen. <br />
+<br />
+30 Roadster mit unterschiedlichster Ausrüstung <br />
+8 Rennstrecken plus versteckte Spezial-Pisten <br />
+<br><br />
+- 1-4 Spieler</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    7.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="347">
+<input type="hidden" name="nPreis" value="   4.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=347&VID="><img src="images/dcgecwanarchy.jpg" width="80" height="80" alt="347" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>ECW Anarchy Rules</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Brandneu: Das glühend heiße Brimstone-Match und Musik von Dope & One Minute Silence. Schlägereien in den Umkleideräumen, ganz neue Finishing-Moves und Kommentare von einem 2-köpfigen Reporterteam. Einzigartige Hardcore-Table-Matches. RVD, Tanaka, The Sandman und 60 weitere erbarmungslose Wrestler. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    4.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="146">
+<input type="hidden" name="nPreis" value="  14.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=146&VID="><img src="images/dcgheadhunter.jpg" width="80" height="80" alt="146" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Headhunter</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Die Zukunft ist ein gefährlicher Ort, besonders wenn du nicht weisst, wer du bist und wer dich umbringen will oder warum. In Kalifornien im frühen 21. Jahrhundert hat menschliches Kapital eine völlig neue Bedeutung, und das ACN, eine Elitetruppe privatisierter Gesetzesvollstrecker, führt mit ihren "Headhutern" einen Krieg gegen das Verbrechen. Du übernimmst die Rolle des führenden Headhunters Jack Wade, der sich in einer voll interaktiven Umgebung auf die Suche nach Wahrheit und Gerechtigkeit...</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   14.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="196">
+<input type="hidden" name="nPreis" value="   2.00">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=196&VID="><img src="images/dcgleer.jpg" width="80" height="70" alt="196" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Leerhülle inkl. Chu</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Sind manche Ihre Original Sega Dreamcast Spielhüllen verkrazt. Braucht Ihre Spielesammlung nicht einen perfekten Glanz. Wir haben die Lösung. Original Sega Dreamcast Leerhüllen inkl. dem Spiel Chu Chu Rocket für sehr wenig Geld !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    2.00</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="110">
+<input type="hidden" name="nPreis" value="   1.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=110&VID="><img src="images/dcgsoul.jpg" width="80" height="80" alt="110" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Soul Reaver</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Verraten von seinem Herrscher Kain, treibt der Untote Raziel in den düsteren Ruinen der Vampirstadt Nosgoth sein Unwesen. Als Wanderer zwischen der Welt der Sterblichen und der spektralen Unterwelt führt Raziel seinen Rachefeldzug gegen die gewaltigen Vampirscharen und finstersten Kreaturen von Nosgoth. Nur wenn er die Energie ihrer Seelen in sich aufnimmt. kann er seine Rache vollenden. 16 riesige Levels existieren in zwei unterschiedlichen Dimensionen und morphen zwischen ihnen in Echtzeit. Hochauflösende Grafik, gewaltige gotische Architektur und eine wahre Horroratmosphäre. Direct Streaming - Technologie: Daten werden direkt von CD geladen, keine langen Wartezeiten unterbrechen den Spielspass<br />
+<br><br />
+- Achtung <b>VGA</b>-Kompatibel  <br />
+- 1 Spieler</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    1.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_end.tpl -->
+<tr><td colspan=6><font face="arial" color="#000000" size="1"><center>
+ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
+</table><!-- tpl/de/cauposhop_noframes/navigation.tpl -->
+<table width="550" border="0" cellpadding=0 cellspacing=0 align="center">
+ <tr>
+  <td class=fliesstext10pt align=center>
+   Artikel 11-20 von insgesamt 71  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=0&svArtikelArt=&svAktion=&svValue=&VID=">Anfang der Artikel-Liste</a> - 
+   <a href="shop_artikel.php3?nPos=0&svArtikelArt=&svAktion=&svValue=&VID=">Vorherige Seite</a>
+  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=20&svArtikelArt=&svAktion=&svValue=&VID=">Nächste Seite</a> - 
+   <a href="shop_artikel.php3?nPos=62&svArtikelArt=&svAktion=&svValue=&VID=">Ende der Artikel-Liste</a>
+  </td>
+ </tr>
+ </table></td></tr></table>
+
+</body>
+</html>

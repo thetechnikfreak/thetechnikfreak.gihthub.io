@@ -1,0 +1,511 @@
+<!-- tpl/de/cauposhop_noframes/head.tpl -->
+<html>
+<head>
+<META NAME="publisher" CONTENT="Hongkongfun ">
+<META NAME="keywords" CONTENT="Bleem, PS Hacker, Modchip, Memorycard, Joypad, Neo, Hongkong-Importe, Konsole, Konsolenzubehoer, Dreamcast,  PSX, Schummelmodul, Action Replay">
+<META NAME="description" CONTENT="Hongkongfun importiert Konsolenzubehoer - vielfach direkt aus HongKong - und ist deshalb in der Lage, Ihnen besonders guenstige Preise anbieten zu koennen. Unser Angebot wird staendig erweitert. Lassen SIe sich ueberraschen.">
+<META NAME="page-topic" CONTENT="Spiel">
+<META NAME="page-type" CONTENT="Produktinfo">
+<META NAME="robots" CONTENT="INDEX,FOLLOW">
+<meta http-equiv="Expires" content="0"></head><title>Hongkongfun - Artikel</title> 
+
+
+
+</head><link rel="stylesheet" href="tpl/de/cauposhop_noframes/caupo.css"><!-- tpl/de/cauposhop_noframes/body.tpl -->
+<body bgcolor="ffffff" text="#000000" link="#000000" alink="#ff0000" vlink="#000000">
+<table border="0" bgcolor="#000000" width="760" cellpadding="0" cellspacing="0" >
+<tr><td></td></tr>
+<tr><td> <center>
+   <table border="0" bgcolor="#000000" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD width="40"><img src="images/logo2.gif"  border="0"></TD>
+			<TD width="40" bgcolor="#2878A6"><a href="download/spanish.pdf" target = "new"><img src="download/spanish.gif"  border="0"></a></TD>
+		  <td width="680"  bgcolor="#2878A6">
+		  &nbsp;
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+<tr><td> <center>
+   <table border="0" bgcolor="#9CAFBC" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD VAlign=left>
+		  <table border="0" width="150" cellpadding=1 cellspacing=1 align="right">
+		  		 <tr>
+				 	 <td  colspan="2" width="20"  align="center"   valign="bottom"><nobr><a href="index.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Home</a><b> || </nobr><br  </td>
+					 <td  colspan="2" width="40" align="center"   valign="bottom"><nobr> <a href="myhongkongfun.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Mein Konto</a> <b>|| </nobr> <br></td>
+					 <td  colspan="2"  width="20" align="center"   valign="bottom"><nobr> <a href="shop_basket.php3?PHPSESSID=&VID="> <font face="Arial" color="#ffffff"><strong><small><nobr>Warenkorb</nobr></a></td>
+				 </tr>
+				 </table>
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+</Table>
+<!-- tpl/de/cauposhop_noframes/shop_nav.tpl -->
+
+<form action="shop_artikel.php3" method="POST" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#ffffff" align=left>
+
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#000000" >
+<tr><td></td></tr>
+<tr>
+<td colspan="3" >
+	<div align="center">
+		
+		<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#2878A6">
+		<tr><td>
+				<font color="#2878A6">--</font><font face="Arial" color="#ffffff"><strong><small>Navigation</small></strong></font></td>
+		</tr>
+		</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div align="center">
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#9CAFBC">
+<tr>
+<td>
+<br><small>
+<font face="Arial" size="2" color="#ffffff">
+Suchen:
+<input type="Text" name="svValue" value="" size="10"><br>
+<br>
+Auswahl einschränken:<br><br>
+</font>
+<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<select name="svArtikelArt"><option value="0">Alles</option>
+<OPTION VALUE="PStation">PStation</option>
+<OPTION VALUE="GC">GC</option>
+<OPTION VALUE="PStation2">PStation2</option>
+<OPTION VALUE="DC">DC</option>
+<OPTION VALUE="GBA">GBA</option>
+<OPTION VALUE="Sonstiges">Sonstiges</option>
+<OPTION VALUE="GB">GB</option>
+<OPTION VALUE="PC">PC</option>
+<OPTION VALUE="X-Box">X-Box</option>
+<OPTION VALUE="DC-Spiele">DC-Spiele</option>
+<OPTION VALUE="N64-Spiele">N64-Spiele</option>
+<OPTION VALUE="N64">N64</option>
+<OPTION VALUE=""></option>
+<OPTION VALUE="SNES">SNES</option>
+</select>
+<br>
+<br>
+<br>
+<input type="Hidden" name="VID" value="">
+<input type="submit" size="15" value="    Anzeigen    " name="btnSuche"><br><br>
+<br><b>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ allgemeines ]	<br>		 
+	<font color="#9CAFBC">----</font><a href="info.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>impressum</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	
+	
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
+	<font color="#9CAFBC">----</font><a href="download.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>download</nobr></a><br>
+	
+						<br><center>Angebot<br>DC Headhunter<br><br><a href="http://www.hongkongfun.de/single_article.php3?nArtikel_ID=146&VID="><img src ="images/big/dcgheadhunter" border=0 height=100></a><br></center><br><br>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ news ]		<br>	 
+		   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Bis zu 4 Dreamcas ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Videospiele und Z ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Einige Titel scho ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Original Lenkrad  ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Neue DC Spiele ..</nobr></a><br>
+	   						
+						<br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+</table>
+
+</form>
+</tr></td>
+
+
+
+</table>
+
+
+
+</tr></td>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td valign=top><table width="90" border="0" cellpadding="0" cellspacing="0"align="center">
+<tr><td></td></tr></table>
+<tr><td>
+	
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_head.tpl -->
+<table border="0" width="550" cellpadding=2 cellspacing=2 align="center">
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="128">
+<input type="hidden" name="nPreis" value="   3.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=128&VID="><img src="images/dcgtomb4.jpg" width="80" height="80" alt="128" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Tomb Raider 4</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Eine uralte Legende, ein böser Geist und eine Warnung an die Zukunft: Er ist der Schatten vor der Sonne, der Auslöser aller Seuchen, sein Zorn frißt das ganze Land, und sein HUnger wird unersättlich sein. Diese Prophezeiung handelt von Set, dem grausamen ägyptischen Rachegott - aber davon ahnt Lara Croft leider nichts, als sie ihn unwissentlich aus seinem uralten Grab in die Freiheit entläßt. In diesem spannenden neuen Abenteuer geht es um nicht weniger als das Überleben der Menschheit. Ein atemberaubendes Rennen gegen die Zeit fordert Laras ganze Geschicklichkeit und ihren Verstand, um das drohende Armageddon aufzuhalten. Ihr abenteuerlicher Kreuzzug geht quer durch Ägypten. Teuflische Fallen müssen überwunden, geheimnisvolle Rätsel gelöst werden, verfolgt von einem mysteriösen, gandenlosen Gegner. FEATURES: Neue 3D-Welten in flüssiger Echtzeitgrafik und ein fesselnder Soundtrack bereiten den atmosphärischen Rahmen für diese neueste Episode. Zusätzliche Bewegungen, ein ausgefeiltes Inventarsystem und eine Vielzahl neuer Waffen bieten Lara mehr Möglichkeiten als je zuvor. Kombiniere Objekte um die verschiednesten Hilfsmittel und Werkzeuge herzustellen. Nutze die Armbrust, Leuchtspurmunition, Feldstecher,...eben alles, was eine junge Frau braucht. Komplett in Deutsch.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    3.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="195">
+<input type="hidden" name="nPreis" value="   5.99">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=195&VID="><img src="images/dcgpod2.jpg" width="80" height="80" alt="195" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Pod 2</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Pod 2 ist die Fortsetzung zum erfolgreichen PC-Racing-Game Pod, einem der ersten Spiele, die die MMX-Fähigkeiten der Intel-Prozessoren voll nutzten. POD verkaufte sich über 3,5 millionenmal, nicht zuletzt durch einen massiven Internetsupport durch Ubi Soft, der in ähnlicher Form auch für den Dreamcast Nachfolger POD 2 geplant ist. Bei POD 2 fahren Sie nicht nur gegen Ihre Gegner, sondern auch gegen einen Virus, der jedes Leben vernichtet. Werden Sie oder ein Gegner vom Virus erwischt, beginnt sich Ihr Fahrzeug zu verändern und ein zerstörerisches Eigenleben zu entwickeln, also fahren Sie so gut sie können und seien Sie schneller als der Tod.  <br />
+  <br />
+  Erster Online-Racer für SEGA Dreamcast  <br />
+ <br />
+  Garantierter Spielspaß durch drei unterschiedliche Spielmodi: Spielen Sie allein gegen den Computer, zu zweit via Splitscreen oder mit bis zu 4 Gegner online!  <br />
+ <br />
+  "Dynamische Mutation" Ihres Fahrzeugs; abhängig vom Grad der Verseuchung der Umgebung, durch die Sie fahren, verändert sich Ihr Fahrzeug! </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    5.99</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="129">
+<input type="hidden" name="nPreis" value="   6.00">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=129&VID="></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Millinium Soldier</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Als Millennium Soldier bist Du auf dem Weg der Zerstörung und rächst die Invasion der Außerirdischen. Ein riesiges Waffenarsenal, eindurcksvolle Explosionen und totale Action erwarten Dich. Don t stop running. Don t stop shooting. Don t start thinking. Und das ganze auf 20 Missionen voller Action !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.00</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="154">
+<input type="hidden" name="nPreis" value="   9.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=154&VID="><img src="images/dcgvtennis2.jpg" width="80" height="70" alt="154" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Virtua Tennis 2 PAL</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Das weltbeste Tennis-Spiel ist wieder da. Greifen sie in Virtua Tennis 2 zum Schläger und werden Sie die Nummer 1 der Weltrangliste. Mit Aufschlag, Schmetterball und Lob treten 16 internationale Top-Tennisspieler, männliche und weibliche, im Einzel gegeneinander an. Bis zu vier Spieler können im Doppel oder im gemischten Doppel kämpfen. Turnier-, Schaukampf, und World Tour Modus wurden überarbeitet und verbessert - da heißt es Spiel, Satz und Sieg für Virtua Tennis 2. <br />
+</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    9.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="164">
+<input type="hidden" name="nPreis" value="   3.99">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=164&VID="><img src="images/dcghydro.jpg" width="80" height="79" alt="164" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Hydro Thunder</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Spüren Sie die unbändige Kraft und atemberaubende Geschwindig- keit eines turbogetriebenen Thunder-Bootes! Heiße Kopf-an-Kopf- Rennen und äußerste Spannung erwarten Sie in einmaligen Umsetzung des Nr.1-Spielhallenautomaten. Rasen Sie über zehn unterschiedliche, mit allerlei Tücken ausgestattete Rennkurse, und gehen Sie dabei nicht zu sanft mit Ihren Kontrahenten um! Denn wer bremst, verliert und wer allzu brav ist, hat bei diesem actiongeladenen Rennspiel erst recht keine Chance... <br />
+FEATURES: - Erstklassige Umsetzung des Nr.1-Spielhallenautomaten aus den USA - Hydro Thunder bringt Schwung in das angestaubte Rennspiel-Genre</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    3.99</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="165">
+<input type="hidden" name="nPreis" value="   4.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=165&VID="><img src="images/dcgr2r.jpg" width="80" height="80" alt="165" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Ready 2 Rumble Boxing</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Ready 2 Rumble Boxing ist der ultimative Box-Spaß für Deine Dreamcast!<br />
+<br />
+- 16 Boxer stehen zur Wahl, jeder mit seinem eigenen Stil<br />
+- Ansage von Michael Buffer <br />
+- Versteckte Combobewegungen für Knüllerpower<br />
+- Arkade-, Meisterscafts- und Boxtrainingsmodus<br />
+<br />
+<br />
+KOMPATIBLITÄT:<br />
+<br />
+1-2 Spieler, Visual Memory Card, Arcade Stick, Vibration Pack</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    4.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="181">
+<input type="hidden" name="nPreis" value="   5.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=181&VID="><img src="images/dcgsegarally.jpg" width="80" height="72" alt="181" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Sega Rally 2</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Mit Sega Rally 2 liegt nun die Nachfolgeversion eines Automatenspiels vor, das sein Konsolen-Debüt einst auf dem unglückseligen Sega Saturn hatte. Die Saturn-Konsole ist mittlerweile still entschlafen, aber unter Videospiel-Fans ruft die Originalversion Sega Rally immer noch warme Erinnerungen an eine der besten Arcade-Rennsimulationen aller Zeiten wach. Doch nun gelangt der Nachfolger nach einem Triumphzug durch die Spielhallen endlich auf die Konsolen. Sega Rally 2-Fans werden mit Begeisterung feststellen, dass die Sega-Leute ihr Bestes gegeben haben, um für die Dreamcast-Version noch mehr Spielspaß zu bieten. So gibt es gegenüber der Automatenversion eine größere Auswahl an Fahrzeugen und Rennstrecken. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    5.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="210">
+<input type="hidden" name="nPreis" value="  12.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=210&VID="><img src="images/dcgsegagt.jpg" width="80" height="80" alt="210" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Sega GT</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Hier kommen Racing-Freaks voll auf ihre Kosten. Zahllose Wettbewerbsmodi, wie Single Race, Time Attack und der Dual Race Mode für zwei Spieler sorgen für absolute Langzeit-Motivation. Superspannend ist der Championship Mode. Hier kann man richtig Karriere machen. Sobald man eine Lizenz ergattert hat, kann man an zahlreichen Rennwettbewerben teilnehmen. Als Siegerprämie erhält man Geld oder neue Wagen. FEATURES: - 22 verschiedene Strecken und über 130 offizielle Rennwagen. - Zahllose Wettbewerbsmodi und Aufstiegsmöglichkeiten. - Fabrik-Modus - da kann man tunen, frisieren und eigene Fahrzeuge erstellen. - Split-Screen-Modus für 2 Spieler. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   12.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="254">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=254&VID="><img src="images/dcgincoming.jpg" width="80" height="80" alt="254" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Incoming</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>Ihren schon PC-Shooter hat die britische Spielschmiede Rage beinahe 1:1 für Dreamcast umgesetzt. Nun dürfen sich auch Besitzer der neuen Sega-Konsole an der mit bombatischen Licht- und Explosionseffekten gespickten Grafik erfreuen. Das actionlastige Spielprinzip erfuhr leider kein Update - der mißglückte Strategiemodus ist sogar weggefallen -, und so verteidigt der Spieler die fünf Schauplätze, darunter Mond, Arktis und Nordatlantik, vor den Übergriffen außerirdischer Fluggeräte und Fahrzeuge. Dazu muß er, zumindest im Campainmodus, vorgegebene Einheiten wie Hubschrauber, UFO oder Gefechtsstation steuern. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="255">
+<input type="hidden" name="nPreis" value="   4.99">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=255&VID="><img src="images/dcgwildmetal.jpg" width="87" height="80" alt="255" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Original Wild Metal</div>
+<div class=fliesstext>Dieser Artikel ist passend für DC-Spiele </div>
+<br><div class=fliesstext10pt>- Die Zukunft der Menschheit liegt in Ihren Händen. - Greifen Sie den Gegner im Alleingang an, oder treten Sie auf geteiltem Bildschirm in einem Zweikampf gegen Ihren Widersa- cher an! - Ihnen stehen 5 gepanzerte Angriffsfahrzeuge zur Auswahl, jedes davon mit einzigartigen Leistungseigenschaften! - Sie treten gegen 17 verschiedene Metallmonster an. - Geboten werden die unglaublichsten und technologisch fort- schrittlichsten Waffen für Dramcast. - Ihre Aufgabe ist es, acht verschiedene Energiekerne zu finden und an sich zu nehmen. Sie spielen auf drei einzigartien Planetenoberflächen - der Tundra, der Aztekenwüste und dem Roten Planeten! </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    4.99</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_end.tpl -->
+<tr><td colspan=6><font face="arial" color="#000000" size="1"><center>
+ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
+</table><!-- tpl/de/cauposhop_noframes/navigation.tpl -->
+<table width="550" border="0" cellpadding=0 cellspacing=0 align="center">
+ <tr>
+  <td class=fliesstext10pt align=center>
+   Artikel 21-30 von insgesamt 70  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=0&svArtikelArt=&svAktion=&svValue=&VID=">Anfang der Artikel-Liste</a> - 
+   <a href="shop_artikel.php3?nPos=10&svArtikelArt=&svAktion=&svValue=&VID=">Vorherige Seite</a>
+  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=30&svArtikelArt=&svAktion=&svValue=&VID=">Nächste Seite</a> - 
+   <a href="shop_artikel.php3?nPos=61&svArtikelArt=&svAktion=&svValue=&VID=">Ende der Artikel-Liste</a>
+  </td>
+ </tr>
+ </table></td></tr></table>
+
+</body>
+</html>

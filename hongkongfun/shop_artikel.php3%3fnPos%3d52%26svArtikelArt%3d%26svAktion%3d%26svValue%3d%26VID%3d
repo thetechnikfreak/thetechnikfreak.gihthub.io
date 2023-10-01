@@ -1,0 +1,506 @@
+<!-- tpl/de/cauposhop_noframes/head.tpl -->
+<html>
+<head>
+<META NAME="publisher" CONTENT="Hongkongfun ">
+<META NAME="keywords" CONTENT="Bleem, PS Hacker, Modchip, Memorycard, Joypad, Neo, Hongkong-Importe, Konsole, Konsolenzubehoer, Dreamcast,  PSX, Schummelmodul, Action Replay">
+<META NAME="description" CONTENT="Hongkongfun importiert Konsolenzubehoer - vielfach direkt aus HongKong - und ist deshalb in der Lage, Ihnen besonders guenstige Preise anbieten zu koennen. Unser Angebot wird staendig erweitert. Lassen SIe sich ueberraschen.">
+<META NAME="page-topic" CONTENT="Spiel">
+<META NAME="page-type" CONTENT="Produktinfo">
+<META NAME="robots" CONTENT="INDEX,FOLLOW">
+<meta http-equiv="Expires" content="0"></head><title>Hongkongfun - Artikel</title> 
+
+
+
+</head><link rel="stylesheet" href="tpl/de/cauposhop_noframes/caupo.css"><!-- tpl/de/cauposhop_noframes/body.tpl -->
+<body bgcolor="ffffff" text="#000000" link="#000000" alink="#ff0000" vlink="#000000">
+<table border="0" bgcolor="#000000" width="760" cellpadding="0" cellspacing="0" >
+<tr><td></td></tr>
+<tr><td> <center>
+   <table border="0" bgcolor="#000000" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD width="40"><img src="images/logo2.gif"  border="0"></TD>
+			<TD width="40" bgcolor="#2878A6"><a href="download/spanish.pdf" target = "new"><img src="download/spanish.gif"  border="0"></a></TD>
+		  <td width="680"  bgcolor="#2878A6">
+		  &nbsp;
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+<tr><td> <center>
+   <table border="0" bgcolor="#9CAFBC" width="758" cellpadding="0" cellspacing="0" >
+   		  <tr><TD VAlign=left>
+		  <table border="0" width="150" cellpadding=1 cellspacing=1 align="right">
+		  		 <tr>
+				 	 <td  colspan="2" width="20"  align="center"   valign="bottom"><nobr><a href="index.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Home</a><b> || </nobr><br  </td>
+					 <td  colspan="2" width="40" align="center"   valign="bottom"><nobr> <a href="myhongkongfun.php3?PHPSESSID="> <font face="Arial" color="#ffffff"><strong><small>Mein Konto</a> <b>|| </nobr> <br></td>
+					 <td  colspan="2"  width="20" align="center"   valign="bottom"><nobr> <a href="shop_basket.php3?PHPSESSID=&VID="> <font face="Arial" color="#ffffff"><strong><small><nobr>Warenkorb</nobr></a></td>
+				 </tr>
+				 </table>
+		  </td>
+		  </tr></table>
+	</td>
+
+</TR>
+<tr>
+
+</Table>
+<!-- tpl/de/cauposhop_noframes/shop_nav.tpl -->
+
+<form action="shop_artikel.php3" method="POST" >
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#ffffff" align=left>
+
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#000000" >
+<tr><td></td></tr>
+<tr>
+<td colspan="3" >
+	<div align="center">
+		
+		<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#2878A6">
+		<tr><td>
+				<font color="#2878A6">--</font><font face="Arial" color="#ffffff"><strong><small>Navigation</small></strong></font></td>
+		</tr>
+		</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div align="center">
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="158" bgcolor="#9CAFBC">
+<tr>
+<td>
+<br><small>
+<font face="Arial" size="2" color="#ffffff">
+Suchen:
+<input type="Text" name="svValue" value="" size="10"><br>
+<br>
+Auswahl einschränken:<br><br>
+</font>
+<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<select name="svArtikelArt"><option value="0">Alles</option>
+<OPTION VALUE="PStation">PStation</option>
+<OPTION VALUE="GC">GC</option>
+<OPTION VALUE="PStation2">PStation2</option>
+<OPTION VALUE="DC">DC</option>
+<OPTION VALUE="GBA">GBA</option>
+<OPTION VALUE="Sonstiges">Sonstiges</option>
+<OPTION VALUE="GB">GB</option>
+<OPTION VALUE="PC">PC</option>
+<OPTION VALUE="X-Box">X-Box</option>
+<OPTION VALUE="DC-Spiele">DC-Spiele</option>
+<OPTION VALUE="N64-Spiele">N64-Spiele</option>
+<OPTION VALUE="N64">N64</option>
+<OPTION VALUE=""></option>
+<OPTION VALUE="SNES">SNES</option>
+</select>
+<br>
+<br>
+<br>
+<input type="Hidden" name="VID" value="">
+<input type="submit" size="15" value="    Anzeigen    " name="btnSuche"><br><br>
+<br><b>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ allgemeines ]	<br>		 
+	<font color="#9CAFBC">----</font><a href="info.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>impressum</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	
+	
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
+	<font color="#9CAFBC">----</font><a href="download.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>download</nobr></a><br>
+	
+						<br><center>Angebot<br>DC Headhunter<br><br><a href="http://www.hongkongfun.de/single_article.php3?nArtikel_ID=146&VID="><img src ="images/big/dcgheadhunter" border=0 height=100></a><br></center><br><br>
+	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ news ]		<br>	 
+		   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Bis zu 4 Dreamcas ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Videospiele und Z ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Einige Titel scho ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Original Lenkrad  ..</nobr></a><br>
+	   	   		 <font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>Neue DC Spiele ..</nobr></a><br>
+	   						
+						<br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+</table>
+
+</form>
+</tr></td>
+
+
+
+</table>
+
+
+
+</tr></td>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" >
+
+<tr><td valign=top><table width="90" border="0" cellpadding="0" cellspacing="0"align="center">
+<tr><td></td></tr></table>
+<tr><td>
+	
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_head.tpl -->
+<table border="0" width="550" cellpadding=2 cellspacing=2 align="center">
+
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="102">
+<input type="hidden" name="nPreis" value="  25.00">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=102&VID="><img src="images/smartjoy20.jpg" width="58" height="80" alt="102" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Smartjoy 2.0 Rumble</div>
+<div class=fliesstext>Dieser Artikel ist passend für PC </div>
+<br><div class=fliesstext10pt>Die neuste und innovativste Version des Smartjoys mit Force Feedback Unterstützung. Benutzen Sie Ihr PStation Analog Joypad oder jegliche andere PStation Peripherie mit diesem Adapter einfach am PC (Lenkräder, Double Shockpads,...). Kaufen Sie Zubehör nicht doppelt. <br> Lassen Sie Ihr Pad vibrieren !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   25.00</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="301">
+<input type="hidden" name="nPreis" value="  29.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=301&VID="><img src="images/pcmagicbox.jpg" width="63" height="80" alt="301" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>USB Magic Box</div>
+<div class=fliesstext>Dieser Artikel ist passend für PC </div>
+<br><div class=fliesstext10pt>Schliessen Sie Ihr DC, PStation, oder Saturn Zubehör bequem an Ihre PC USB Port an. Dieser Adapter ist ein Multitalent. Endlich das richtige Joypad für jedes Spiel.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   29.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="44">
+<input type="hidden" name="nPreis" value="   1.09">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=44&VID="><img src="images/1meg.jpg" width="80" height="70" alt="44" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>1Mega Speicherkarte</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation </div>
+<br><div class=fliesstext10pt>Einfache unkomprimierte Speicherkarte für die PStation. In Einzelverpackung !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    1.09</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="41">
+<input type="hidden" name="nPreis" value="   4.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=41&VID="><img src="images/rgbaudio.jpg" width="80" height="80" alt="41" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>RGB mit Audio Video Ausgang</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation </div>
+<br><div class=fliesstext10pt>Das gleiche wie das RGB Kabel, es werden nur noch 3 Chinchausgänge bereitgestellt für den Anschluss an eine Stereoanlage oder zum Spielen mit Guncon Lightguns.<br></div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    4.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="34">
+<input type="hidden" name="nPreis" value="   2.49">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=34&VID="><img src="images/psxdoubleblau.jpg" width="87" height="80" alt="34" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Double Shock Pad blau</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation </div>
+<br><div class=fliesstext10pt>Analogpad mit voller Rumbleunterstützung. Es gibt mehrere transparente Farben.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    2.49</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="45">
+<input type="hidden" name="nPreis" value="   7.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=45&VID="><img src="images/dcsvhs.jpg" width="80" height="42" alt="45" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>SVHS Kabel</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation2 </div>
+<br><div class=fliesstext10pt>Super VHS Kabel für die PStation2. Endlich auch die DVDs in Farbe sehen bei optimalem Bild <br></div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    7.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="338">
+<input type="hidden" name="nPreis" value="   1.99">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=338&VID="><img src="images/psx2accelerator.jpg" width="75" height="75" alt="338" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Blaze Game Accelerator</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation2 </div>
+<br><div class=fliesstext10pt>Spielen Sie viele Ihrer PStation2 Pal Spiele mit 60 Hz. Das heisst bis zu 12% schneller. Speziell bei Kampf- und Rennspielen erhöht dies den Spielgenuss ungemein.<br />
+</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    1.99</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="79">
+<input type="hidden" name="nPreis" value="  12.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=79&VID="><img src="images/psx2dvdboot.jpg" width="63" height="80" alt="79" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>DVD Region-X</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation2 </div>
+<br><div class=fliesstext10pt>Ohne Umbau auf der PStation2 alle Importdvds anschauen ist kein Traum mehr. Einfach einlegen !<br />
+<br />
+Jetzt auch noch zum günstigen Preis !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR   12.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="260">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=260&VID="><img src="images/psx2dvdregionfree.jpg" width="45" height="80" alt="260" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Blaze DVD Region Free</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation2 </div>
+<br><div class=fliesstext10pt>Spielen Sie mit dieser super günstigen Alternative Dvds aller Regionen ab. Endlich können sie auch ohne Grünstich mit einem normalen RGB Kabel DVDs anschauen. Diese Disc vom Zubehörspezialisten Blaze zum absolut günstigen Preis ist ein Geheimtipp.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_row.tpl -->
+<tr>
+<form action="shop_basket.php3" method="POST" >
+
+<td valign="top">
+<input type="hidden" name="nArtikel_ID" value="47">
+<input type="hidden" name="nPreis" value="   6.95">
+<input type="hidden" name="VID" value="">
+<a href ="single_article.php3?nArtikel_ID=47&VID="><img src="images/stand.jpg" width="71" height="80" alt="47" border="0"></a></td>
+
+<td valign="top">
+<div class=fliesstext>Aufsteller (Stand)</div>
+<div class=fliesstext>Dieser Artikel ist passend für PStation2 </div>
+<br><div class=fliesstext10pt>Aufsteller für die PStation2, damit das teure Stück nicht umfällt. Mit Memory Card Slots.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<br>Abbildung kann vom Artikel abweichen.</font></td>
+
+<td valign="top" align="right" nowrap>
+<div class=fliesstext>EUR    6.95</div>
+
+</td>   
+
+<td align="right" valign="top">
+Anzahl:
+<input type="Text" name="nArtikel_Menge" size="3" maxlength="3" value="1"><br>
+<hr noshade color="#CCCCC0">
+<input type="image" name="Add2Basket" src="test.gif" border="0" value="F&uuml;llen">
+</td>
+</form>
+</tr>
+<tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
+<!-- tpl/de/cauposhop_noframes/artikel_table_end.tpl -->
+<tr><td colspan=6><font face="arial" color="#000000" size="1"><center>
+ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
+</table><!-- tpl/de/cauposhop_noframes/navigation.tpl -->
+<table width="550" border="0" cellpadding=0 cellspacing=0 align="center">
+ <tr>
+  <td class=fliesstext10pt align=center>
+   Artikel 53-62 von insgesamt 70  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=0&svArtikelArt=&svAktion=&svValue=&VID=">Anfang der Artikel-Liste</a> - 
+   <a href="shop_artikel.php3?nPos=42&svArtikelArt=&svAktion=&svValue=&VID=">Vorherige Seite</a>
+  </td>
+ </tr>
+  <tr>
+  <td class=fliesstext10pt align=center>
+   <a href="shop_artikel.php3?nPos=62&svArtikelArt=&svAktion=&svValue=&VID=">Nächste Seite</a> - 
+   <a href="shop_artikel.php3?nPos=61&svArtikelArt=&svAktion=&svValue=&VID=">Ende der Artikel-Liste</a>
+  </td>
+ </tr>
+ </table></td></tr></table>
+
+</body>
+</html>
