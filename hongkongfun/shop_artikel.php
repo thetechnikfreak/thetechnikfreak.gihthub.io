@@ -85,9 +85,9 @@
 Suchen:
 <input type="Text" name="svValue" value="" size="10"><br>
 <br>
-Auswahl einschränken:<br><br>
+Auswahl einschrÃ¤nken:<br><br>
 </font>
-<font face="Arial" size="1" color="#ffffff">Zubehör passend für:<br></font>
+<font face="Arial" size="1" color="#ffffff">ZubehÃ¶r passend fÃ¼r:<br></font>
 <select name="svArtikelArt"><option value="0">Alles</option>
 <OPTION VALUE="PStation">PStation</option>
 <OPTION VALUE="GC">GC</option>
@@ -115,7 +115,7 @@ Auswahl einschränken:<br><br>
 	<font color="#9CAFBC">----</font><a href="dailynews.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>news</nobr></a><br>
 	<font color="#9CAFBC">----</font><a href="agb.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>agbs</nobr></a><br>
 	<font color="#9CAFBC">----</font><a href="bezahlung.php3?PHPSESSID="><font face="Arial" SIZE=2 color="#ffffff"><nobr>bezahlung</nobr></a><br>
-	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>händler</nobr></a><br><br>
+	<font color="#9CAFBC">----</font><a href="http://sales.hongkongfun.de/index.php3"><font face="Arial" SIZE=2 color="#ffffff"><nobr>hÃ¤ndler</nobr></a><br><br>
 	
 	
 	<font color="#9CAFBC">--</font><font face="Arial" SIZE=2 color="#ffffff">[ service ]		<br>	 
@@ -177,9 +177,9 @@ Auswahl einschränken:<br><br>
 
 <td valign="top">
 <div class=fliesstext>Verbindungskabel</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Das Verbindungskabel wird benötigt um Ihre Skillz-Karte mit dem PC zu verbinden. <br>Falls Sie schon eine Karte besitzen bei der kein Kabel beilag, können Sie das Kabel trotzdem hier günstig erwerben.</div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Das Verbindungskabel wird benÃ¶tigt um Ihre Skillz-Karte mit dem PC zu verbinden. <br>Falls Sie schon eine Karte besitzen bei der kein Kabel beilag, kÃ¶nnen Sie das Kabel trotzdem hier gÃ¼nstig erwerben.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -208,9 +208,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>2M Speicherkarte transparent</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Die transparente 2fach-Karte für das DC hat Platz für 400 Blocks (normalerweise 200). Sehr viel Platz für wenig Geld. </div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Die transparente 2fach-Karte fÃ¼r das DC hat Platz fÃ¼r 400 Blocks (normalerweise 200). Sehr viel Platz fÃ¼r wenig Geld. </div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -239,9 +239,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>4M trans. Memory Card</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Die transparente 4fach-Karte für das DC hat Platz für 800 Blocks (normalerweise 200). Sehr viel Platz für wenig Geld. <br></div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Die transparente 4fach-Karte fÃ¼r das DC hat Platz fÃ¼r 800 Blocks (normalerweise 200). Sehr viel Platz fÃ¼r wenig Geld. <br></div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -270,9 +270,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>RGB-Kabel Audio</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Dieses Kabel ist absolut essentiell für den wahren Zocker. Endlich können Sie das volle RGB Signal für eine optimale Darstellung am TV übertragen.<br></div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Dieses Kabel ist absolut essentiell fÃ¼r den wahren Zocker. Endlich kÃ¶nnen Sie das volle RGB Signal fÃ¼r eine optimale Darstellung am TV Ã¼bertragen.<br></div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -301,9 +301,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>SVHS Kabel mit Audio</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Das Kabel für optimalen TV Empfang. Mit extra Chinch Kabel für Stereo Sound der Spitzenklasse !</div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Das Kabel fÃ¼r optimalen TV Empfang. Mit extra Chinch Kabel fÃ¼r Stereo Sound der Spitzenklasse !</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -332,9 +332,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>VGA Box</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Mit der VGA Box von Hais  können Sie die DC Spiele in noch bessserer Grafik geniessen.<br></div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Mit der VGA Box von Hais  kÃ¶nnen Sie die DC Spiele in noch bessserer Grafik geniessen.<br></div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -363,10 +363,11 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>VCD Player mit Fernbedienung</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Dank Internet verbreiten sich die VCDs immer weiter. Für wenig Geld machen Sie aus Ihrer Dreamcast einen Standalone VCD Player mit Fernbedienung. Achtung VCD Player läuft nur über SVHS, Chinch, RF oder VGA <b>nicht</b> über RGB Kabel !<br />
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Dank Internet verbreiten sich die VCDs immer weiter. FÃ¼r wenig Geld machen Sie aus Ihrer Dreamcast einen Standalone VCD Player mit Fernbedienung. Achtung VCD Player lÃ¤uft nur Ã¼ber SVHS, Chinch, RF oder VGA <b>nicht</b> Ã¼ber RGB Kabel !
+<br />
 </div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -395,9 +396,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>RF Unit/Antennenadapter</div>
-<div class=fliesstext>Dieser Artikel ist passend für dc </div>
-<br><div class=fliesstext10pt>Schliessen Sie Ihr DC bequem an jeden Fernseher an. Auch an ältere TV die keinen Scart Eingang haben.</div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r dc </div>
+<br><div class=fliesstext10pt>Schliessen Sie Ihr DC bequem an jeden Fernseher an. Auch an Ã¤ltere TV die keinen Scart Eingang haben.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -426,8 +427,8 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>Original Sega Pad</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Das Original Sega Pad, super Qualität, wurde in der letzten Zeit sehr rar und konnte fast überall nicht mehr geliefert werden. Wir haben das Pad ab sofort auf Lager, unbedingt zuschlagen !</div>
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Das Original Sega Pad, super QualitÃ¤t, wurde in der letzten Zeit sehr rar und konnte fast Ã¼berall nicht mehr geliefert werden. Wir haben das Pad ab sofort auf Lager, unbedingt zuschlagen !</div>
 <font face="arial" size="1">Dieser Artikel ist lieferbar<br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -456,9 +457,9 @@ Anzahl:
 
 <td valign="top">
 <div class=fliesstext>Bleemcast MGS</div>
-<div class=fliesstext>Dieser Artikel ist passend für DC </div>
-<br><div class=fliesstext10pt>Spielen Sie das super PStation-Spiel MGS mit optimaler Auflösung. Es kann auch an der VGA Box gespielt werden. Jetzt neu in Jewel Case Verpackung.</div>
-<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein Originalzubehör
+<div class=fliesstext>Dieser Artikel ist passend fÃ¼r DC </div>
+<br><div class=fliesstext10pt>Spielen Sie das super PStation-Spiel MGS mit optimaler AuflÃ¶sung. Es kann auch an der VGA Box gespielt werden. Jetzt neu in Jewel Case Verpackung.</div>
+<font face="arial" size="1">Dieser Artikel ist lieferbar   <br>Hinweis: Kein OriginalzubehÃ¶r
 <br>Abbildung kann vom Artikel abweichen.</font></td>
 
 <td valign="top" align="right" nowrap>
@@ -477,7 +478,7 @@ Anzahl:
 <tr><td colspan=6><img src="images/linie.jpg" width="550" height="3" alt="" border="0"></td></tr>
 <!-- tpl/de/cauposhop_noframes/artikel_table_end.tpl -->
 <tr><td colspan=6><font face="arial" color="#000000" size="1"><center>
-ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
+ACHTUNG: Alle aufgefÃ¼hrten Marken befinden sich im Besitz der jeweiligen Unternehmen.<br>
 		   *1 PlayStation ist eine eingetragene Marke der Sony Computer Entertainment Inc.</td></tr>
 </table><!-- tpl/de/cauposhop_noframes/navigation.tpl -->
 <table width="550" border="0" cellpadding=0 cellspacing=0 align="center">
@@ -487,7 +488,7 @@ ACHTUNG: Alle aufgeführten Marken befinden sich im Besitz der jeweiligen Unterne
  </tr>
   <tr>
   <td class=fliesstext10pt align=center>
-   <a href="shop_artikel.php3?nPos=10&svArtikelArt=&svAktion=&svValue=&VID=">Nächste Seite</a> - 
+   <a href="shop_artikel.php3?nPos=10&svArtikelArt=&svAktion=&svValue=&VID=">NÃ¤chste Seite</a> - 
    <a href="shop_artikel.php3?nPos=62&svArtikelArt=&svAktion=&svValue=&VID=">Ende der Artikel-Liste</a>
   </td>
  </tr>
